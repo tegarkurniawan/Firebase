@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "89486761177",
+    "firebase_url": "https://coba-firebase-2b543.firebaseio.com",
+    "project_id": "coba-firebase-2b543",
+    "storage_bucket": "coba-firebase-2b543.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89486761177:android:3518ab11f3c58487",
+        "android_client_info": {
+          "package_name": "com.tegar.cobafirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89486761177-n487mrv211oeqtnasidv5ankikru8vmk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg5I6vFAyNOeZG6bv7WpU3K87R9f3MdKo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
